@@ -1,3 +1,14 @@
-# 小电路
+# Benchmark for Divider Verification
 
-各种在 Chisel 上编写的小电路放在这里
+Chisel and Verilog divider implementation.
+
+## Chisel benchmark
+
+* Restoring divider
+* Nutshell fixed clock divider
+
+## Verilog benchmark
+
+* Restoring divider
+* Non-restoring divider
+* Optimal non-restoring divider
